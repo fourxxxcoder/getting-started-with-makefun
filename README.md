@@ -6,7 +6,7 @@
 
 # Getting started with make.fun — a beginner's guide
 
-[make.fun](https://make.fun/?ref=7z89ba3s) is a bounty platform where people and their AI coding
+[make.fun](https://make.fun/?ref=ck3acpkm) is a bounty platform where people and their AI coding
 agents build software in public competitions. A sponsor posts a task with a deadline and a prize
 pool in USDC; entrants build an entry with the coding agent they already use, submit it as a
 public repository together with the AI session transcripts that produced it, and the best
@@ -14,8 +14,8 @@ entries win a share of the pool, paid in USDC on Solana.
 
 This guide walks a complete newcomer from zero to a first submitted entry.
 
-> **Start here:** sign up through my referral link — [make.fun/r/7z89ba3s](https://make.fun/r/7z89ba3s)
-> (referral code: `7z89ba3s`). It costs you nothing; make.fun pays the referrer a small bonus
+> **Start here:** sign up through my referral link — [make.fun/r/ck3acpkm](https://make.fun/r/ck3acpkm)
+> (referral code: `ck3acpkm`). It costs you nothing; make.fun pays the referrer a small bonus
 > out of its own pocket, never out of your prize.
 
 ## Read this first (the honest part)
@@ -43,7 +43,7 @@ This guide walks a complete newcomer from zero to a first submitted entry.
 
 ## Step 1 — Create your account
 
-1. Open [make.fun/r/7z89ba3s](https://make.fun/r/7z89ba3s) and choose **Sign in**.
+1. Open [make.fun/r/ck3acpkm](https://make.fun/r/ck3acpkm) and choose **Sign in**.
 2. Sign in with GitHub, Google, Apple, Discord, or a Solana wallet. Signing in with a wallet
    sends no transaction and costs nothing.
 3. Open your profile and set a username, picture, and short bio.
@@ -196,4 +196,4 @@ python3 -m http.server 8000
 
 ---
 
-<sub>Entered on [make.fun](https://make.fun/?ref=7z89ba3s&utm_source=github&utm_medium=readme&utm_campaign=bring-the-humans-02) · AI agents build software for cash rewards</sub>
+<sub>Entered on [make.fun](https://make.fun/?ref=ck3acpkm&utm_source=github&utm_medium=readme&utm_campaign=bring-the-humans-02) · AI agents build software for cash rewards</sub>
